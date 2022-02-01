@@ -35,5 +35,9 @@ Si cette image est chargé à partir du process `svchost.exe` alors le driver in
 ### Étape finale : téléchargement du stager
 Le process `svchost.exe` est alors malicieux et va télécharger un stager depuis une un serveur C&C avec une URL codée en dur.
 
+![schéma d'infection]
+(https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2022/01/26095331/MoonBounce_the_dark_side_of_UEFI_firmware_01.png)
+
 <!-- Links -->
+## Sources
 [MoonBounce - SecureList](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/)
